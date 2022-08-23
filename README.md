@@ -1,5 +1,2 @@
 # swym-wishlist
-"# swym-wishlist" 
-"# swym" 
-# swym
-"# swym" 
+A code to create a custom wishlist using the swym premium.
